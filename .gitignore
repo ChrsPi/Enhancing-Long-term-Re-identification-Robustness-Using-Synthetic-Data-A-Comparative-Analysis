@@ -1,0 +1,10 @@
+.idea
+data/
+deep-person-reid/
+out/
+models/
+temp/
+logs/
+training/
+
+**/__pycache__/
