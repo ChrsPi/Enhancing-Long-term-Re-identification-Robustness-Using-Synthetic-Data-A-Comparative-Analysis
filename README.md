@@ -32,4 +32,4 @@ data/boxes-raw
 # Running the code
 
 For replicating the results in the paper, run the python scripts named t**_experiments.py in the src folder.
-
+Note that the experiment refered to as t02 in the paper is refered as t10 in the code.
