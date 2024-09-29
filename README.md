@@ -13,6 +13,7 @@ You don't need to use conda like the original project, just install the requirem
 Make sure it is added to your python path. 
 
 # Models
+The data as well as the models can be downloaded from Zenodo: https://zenodo.org/records/13856502 
 
 Download the Re-Id models and put them in the respective model folders:
 ```
